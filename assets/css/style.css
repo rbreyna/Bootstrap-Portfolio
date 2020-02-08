@@ -227,3 +227,12 @@ input[type=submit] {
   background: #4aaaa5;
   border: 0 none;
 }
+
+
+nav{
+  text-align: center;
+  padding: 10px;
+}
+nav a{
+  /*responsive nav*/
+  display: inline;}

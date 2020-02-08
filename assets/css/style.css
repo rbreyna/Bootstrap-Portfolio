@@ -80,6 +80,16 @@ h3 {
 nav {
   float: right;
   margin-top: 25px;
+  margin-right: 25px;
+  padding-bottom: 25px;
+}
+
+.nav-item{
+  float: left;
+}
+
+ul{
+  list-style-type: none;
 }
 
 nav a {
@@ -91,6 +101,8 @@ nav a {
   text-decoration: none;
   border-left: 1px solid #efefef;
 }
+
+
 
 nav a:first-child {
   border-left: 0 none;
